@@ -2,9 +2,8 @@
 
 # 💫 About Me:
 
-  Career changer transitioning from mechanical engineer to data analyst ,I'm currently focused on building projects with SQL "Structured Query Language", 
-Cleaning data ,  analyze ,visualisation ,storytelling and create dashbord 
-
+I'm a mechanical engineer transitioning into a data analyst,currently focused on building projects with SQL Structured Query Language, 
+I am applying my analytical and logical skills to the world of data. 
 
 # 💻 Tech Stack:
 ## - Language: SQL, learning  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) & ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
