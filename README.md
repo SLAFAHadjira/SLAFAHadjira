@@ -13,7 +13,7 @@ I am applying my analytical and logical skills to the world of data.
 </div> </td><td valign="top" width="33%">
   
 # 🌐 Socials:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/https://www.linkedin.com/in/hadjira-slafa/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:slafahadjira01@gmail.com) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/https://www.linkedin.com/in/hadjira-slafa/) 
 
 
 
